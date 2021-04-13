@@ -1,8 +1,6 @@
-﻿Visioneur
-
+Visioneur
 
 Son but est simple, on peut y mettre des photos et les regarder.
-
 
 Ses fonctionnalités sont :
 * L'ajout d'images depuis la galerie
