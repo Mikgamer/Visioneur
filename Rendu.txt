@@ -7,16 +7,13 @@ Ses fonctionnalités sont :
 * L'affichage de celles-ci à l'écran
 * La possibilité de les mettre en plein écran quand on clique dessus
 
-
 Les points positifs :
 * L'application marche
 * Elle est rapide au lancement (tellement que le splashscreen ne s'affiche pas)
 
-
 Les difficultés rencontrées :
 * Swift : une façon différente de programmer
 * Beaucoup de versions pour le code, des solutions aux problème difficiles à trouver sur internet
-
 
 Les choses à améliorer dans le futur :
 * Simplifier l'interface(la cause principale étant les contraintes de l'évaluation)
